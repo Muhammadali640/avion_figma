@@ -1,0 +1,182 @@
+{
+    "data" : [
+        {
+          "id": 1,
+          "name": "The Dandy chair",
+          "image": "../images/Right Image.png",
+          "price": "£250",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Rustic Vase Set",
+          "image": "../images/Parent.png",
+          "price": "£155"
+        },
+        {
+          "id": 3,
+          "name": "The Silky Vase",
+          "image": "../images/Parent (1).png",
+          "price": "£125"
+        },
+        {
+          "id": 4,
+          "name": "The Lucy Lamp",
+          "image": "../images/Parent (2).png",
+          "price": "£399"
+        },
+        {
+          "id": 5,
+          "name": "Lorem Ipsum is simply",
+          "image": "../images/Right Image.png",
+          "price": "£250"
+        },
+        {
+          "id": 6,
+          "name": "Many desktop publishing",
+          "image": "../images/Parent.png",
+          "price": "£155"
+        },
+        {
+          "id": 7,
+          "name": "All the Lorem",
+          "image": "../images/Parent (1).png",
+          "price": "£125"
+        },
+        {
+          "id": 8,
+          "name": "The standard chunk",
+          "image": "../images/Parent (2).png",
+          "price": "£399"
+        }
+      ],
+
+    "data1" : [
+        {
+          "id": 9,
+          "name": "The Dandy chair",
+          "image": "../images/Right Image.png",
+          "price": "£250"
+        },
+        {
+          "id": 10,
+          "name": "Rustic Vase Set",
+          "image": "../images/Parent.png",
+          "price": "£155"
+        },
+        {
+          "id": 11,
+          "name": "The Silky Vase",
+          "image": "../images/Parent (1).png",
+          "price": "£125"
+        },
+        {
+          "id": 12,
+          "name": "The Lucy Lamp",
+          "image": "../images/Parent (2).png",
+          "price": "£399"
+        },
+        {
+          "id": 13,
+          "name": "Lorem Ipsum is simply",
+          "image": "../images/Right Image.png",
+          "price": "£250"
+        },
+        {
+          "id": 14,
+          "name": "Many desktop publishing",
+          "image": "../images/Parent.png",
+          "price": "£155"
+        },
+        {
+          "id": 15,
+          "name": "All the Lorem",
+          "image": "../images/Parent (1).png",
+          "price": "£125"
+        },
+        {
+          "id": 16,
+          "name": "The standard chunk",
+          "image": "../images/Parent (2).png",
+          "price": "£399"
+        }
+      ],
+
+    "products" : [
+        {
+          "id": 17,
+          "name": "The Poplar suede sofa",
+          "image": "../images/Large.png",
+          "price": "£980"
+        },
+        {
+          "id": 18,
+          "name": "Premium material",
+          "image": "../images/Right Image.png",
+          "price": "£485"
+        },
+        {
+          "id": 19,
+          "name": "Handmade upholstery",
+          "image": "../images/Parent (3).png",
+          "price": "£350"
+        },
+        {
+          "id": 20,
+          "name": "Quality timeless classic",
+          "image": "../images/Large.png",
+          "price": "£980"
+        },
+        {
+          "id": 21,
+          "name": "Nor again is there anyone",
+          "image": "../images/Right Image.png",
+          "price": "£485"
+        },
+        {
+          "id": 22,
+          "name": "Nam libero tempore",
+          "image": "../images/Parent (3).png",
+          "price": "£350"
+        }
+      ],
+
+    "products1" : [
+        {
+          "id": 23,
+          "name": "The Poplar suede sofa",
+          "image": "../images/Large.png",
+          "price": "£980"
+        },
+        {
+          "id": 24,
+          "name": "Premium material",
+          "image": "../images/Right Image.png",
+          "price": "£485"
+        },
+        {
+          "id": 25,
+          "name": "Handmade upholstery",
+          "image": "../images/Parent (3).png",
+          "price": "£350"
+        },
+        {
+          "id": 26,
+          "name": "Quality timeless classic",
+          "image": "../images/Large.png",
+          "price": "£980"
+        },
+        {
+          "id": 27,
+          "name": "Nor again is there anyone",
+          "image": "../images/Right Image.png",
+          "price": "£485"
+        },
+        {
+          "id": 28,
+          "name": "Nam libero tempore",
+          "image": "../images/Parent (3).png",
+          "price": "£350"
+        }
+      ]
+}
